@@ -54,11 +54,12 @@ export const GridItems = () => {
       {state.items.map((item) => (
         <div key={item.id} className="border-2 border-black shadow-lg">
           <div className="flex justify-center">
-            <div className="relative h-40 w-full">
+            <div className="relative h-56 w-full">
               <Image
                 src={item.urlPreviewImage}
                 alt="Sunset in the mountains"
                 layout="fill"
+                objectFit="contain"
               />
             </div>
           </div>

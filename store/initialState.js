@@ -6,7 +6,7 @@ export const initialState = {
       description:
         'Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion',
       price: '12.00',
-      urlPreviewImage: '/preview.png',
+      urlPreviewImage: '/model_2.png',
       titleEditable: false,
       titleSize: 24,
       quantity: 0,
@@ -17,7 +17,7 @@ export const initialState = {
       description:
         'Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion',
       price: '12.00',
-      urlPreviewImage: '/preview.png',
+      urlPreviewImage: '/model_2.png',
       titleEditable: false,
       titleSize: 24,
       quantity: 0,
@@ -28,7 +28,7 @@ export const initialState = {
       description:
         'Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion',
       price: '12.00',
-      urlPreviewImage: '/preview.png',
+      urlPreviewImage: '/model_2.png',
       titleEditable: false,
       titleSize: 24,
       quantity: 0,
@@ -39,7 +39,7 @@ export const initialState = {
       description:
         'Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion',
       price: '12.00',
-      urlPreviewImage: '/preview.png',
+      urlPreviewImage: '/model_2.png',
       titleEditable: false,
       titleSize: 24,
       quantity: 0,
@@ -50,7 +50,7 @@ export const initialState = {
       description:
         'Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion',
       price: '12.00',
-      urlPreviewImage: '/preview.png',
+      urlPreviewImage: '/model_2.png',
       titleEditable: false,
       titleSize: 24,
       quantity: 0,
@@ -61,7 +61,7 @@ export const initialState = {
       description:
         'Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion',
       price: '12.00',
-      urlPreviewImage: '/preview.png',
+      urlPreviewImage: '/model_2.png',
       titleEditable: false,
       titleSize: 24,
       quantity: 0,
@@ -72,7 +72,7 @@ export const initialState = {
       description:
         'Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion',
       price: '12.00',
-      urlPreviewImage: '/preview.png',
+      urlPreviewImage: '/model_2.png',
       titleEditable: false,
       titleSize: 24,
       quantity: 0,
